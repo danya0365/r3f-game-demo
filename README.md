@@ -28,3 +28,7 @@ For this demo I used the current version of Colmen's Quest and stripped everythi
 I don't use a physics engine and the whole collision and movement logic solely relies on tile positions. Therefore you can only move full tiles in this demo.
 
 There are great libraries like [use-cannon](https://github.com/pmndrs/use-cannon) that enable physics-based collisions with react-three-fiber. Check it out! I would love to hear what you made with it!
+
+## fix webpack build
+
+https://deniapps.com/blog/some-fixes-of-webpack-errors
